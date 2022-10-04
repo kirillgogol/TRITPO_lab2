@@ -11,6 +11,7 @@
 ![image](https://user-images.githubusercontent.com/93003053/193873599-390fa9b5-2505-4c25-a73e-e08cd42a09cc.png)
 ![image](https://user-images.githubusercontent.com/93003053/193873782-bd9a3e7c-f096-426f-b4ee-a0ab6e37148c.png)
 ![image](https://user-images.githubusercontent.com/93003053/193873829-be6b77b3-25bb-49a3-a18a-e9ced6f878e4.png)
+![image](https://user-images.githubusercontent.com/93003053/193874052-d2dad2e7-5911-4583-9e40-6fa82c81e1a7.png)
 
 
 ### 2.3 Характеристики пользователей
