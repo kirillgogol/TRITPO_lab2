@@ -88,13 +88,13 @@ Ivi — российская медиакомпания, работающая н
 Окно входа в веб-сервис.  
 ![Окно входа в приложение](https://github.com/kirillgogol/TRITPO_lab2/blob/main/login.png)  
 Окно регистрации нового пользователя.  
-![Окно регистрации нового пользователя](C:\Users\USER\Downloads\5.png)  
+![Окно регистрации нового пользователя](https://github.com/kirillgogol/TRITPO_lab2/blob/main/registration.png)  
 Окно выбора интересующих жанров.  
-![ Окно выбора интересующих жанров](C:\Users\USER\Downloads\2.png)  
+![ Окно выбора интересующих жанров](https://github.com/kirillgogol/TRITPO_lab2/blob/main/genres.png)  
 Окно рекомендованных пользователю фильмов.  
-![ Окно рекомендованных пользователю фильмов.](C:\Users\USER\Downloads\3.png)  
+![ Окно рекомендованных пользователю фильмов.](https://github.com/kirillgogol/TRITPO_lab2/blob/main/recomendations.png)  
 Окно фильмов для оценивания.  
-![Окно фильмов для оценивания](C:\Users\USER\Downloads\4.png)  
+![Окно фильмов для оценивания](https://github.com/kirillgogol/TRITPO_lab2/blob/main/evaluation.png)  
 
 <a name="user_specifications"/>
 
